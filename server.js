@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 import portfolioRoute from "./routes/portfolioRoute.js"; // Ensure .js extension
-import path from path;
+import path from "path";
 
 
 // Load environment variables
